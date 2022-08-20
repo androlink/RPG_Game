@@ -28,6 +28,15 @@
     - biome
 - systeme de cryptage
 - interface réseau
+### graphisme
+plusieur graphisme possible
+peut-etre mettre plusieur texture pack
+
+
+- pokemon 4G (perle diamant ou HGSS)
+- The Legend of Zelda
+- factorio
+- stardew valley
 
 
 
@@ -37,9 +46,6 @@
   - Seveur, unité de calcul et stockage des cartes
   - Client, interface de jeu
   - editeur de map, création de carte 
-
-
-### Optimisation
 
 ### Gameplay
     Les joueurs serons laché dans un immense open world et devront évoluer seul ou en équipe. Leurs déplacements étant restraint a la terre pour le début il devront construire le propre bateau pour découvrir tout les secrets de cet univer.
@@ -54,6 +60,7 @@
 - humanoïde
     - cyclope
     - homme-poisson
+    - homme-oiseau
 - géant
 
 #### métiers
@@ -80,6 +87,10 @@
 - dragon
 - robot
 - cthulhu
+- golem
+    - glace
+    - magma
+    - roche
 
 #### méteo
 - tempete
