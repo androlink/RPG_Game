@@ -1,7 +1,7 @@
 # [trouver un nom]
 
 ## description du jeu
-    Jeu MMORPG open world mélangant plusieurs style de jeu avec une carte s'agrandissant au fil du temps.
+> Jeu MMORPG open world mélangant plusieurs style de jeu avec une carte s'agrandissant au fil du temps.
     L'univer de ce jeu ce basant sur une carte entre One Piece, Zelda Wind Waker et l'univers des Animés des studio ghibli et Trigun, et avec un game play similaire a Zelda Phantom Hourglass.
 
 
@@ -45,11 +45,19 @@ peut-etre mettre plusieur texture pack
 - 3 logicel à développer
   - Seveur, unité de calcul et stockage des cartes
   - Client, interface de jeu
-  - editeur de map, création de carte 
+  - editeur de map, création de carte
+
+
+### position
+- la position est definie selon
+    - les valeur X, Y, Z du joueur
+    - les valeur X, Y, Z du chunk
+    - le nom du monde
 
 ### Gameplay
-    Les joueurs serons laché dans un immense open world et devront évoluer seul ou en équipe. Leurs déplacements étant restraint a la terre pour le début il devront construire le propre bateau pour découvrir tout les secrets de cet univer.
+> Les joueurs serons laché dans un immense open world et devront évoluer seul ou en équipe. Leurs déplacements étant restraint a la terre pour le début il devront construire le propre bateau pour découvrir tout les secrets de cet univer.
     Leur style de jeu sera defini selon les différants métiers, clans, races, compétances et équipes. Il devrons vaincre les monstres des mers, des tempètes, et d'autres équipages dans des combats épiques
+
 #### inventaire
 - un inventaire personnel
 - un inventaire d'équipage
@@ -115,7 +123,10 @@ peut-etre mettre plusieur texture pack
 #### continent KSP
 - placement de la carte de Kerbin
 
-
+### les Mondes
+#### L'overworld
+#### L'interieur des batiment
+#### les sous-sols
 
 
 
